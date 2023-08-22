@@ -1,0 +1,12 @@
+.Footer {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 110px;
+    color: white;
+}
+
+.second-footer{
+    display: flex;
+}
